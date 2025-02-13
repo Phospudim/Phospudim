@@ -1,8 +1,8 @@
-`##                                                          Howdy, meu nome é Alexsandro Gomes Dias!
+##                                                          Howdy, meu nome é Alexsandro Gomes Dias!
  <div align="center">
   <a href="https://github.com/Phospudim">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehugen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehugen&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phospudim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +23,7 @@
   <a href = "alexsandrogomesdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandro-gomes-dias-6698a8165//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  !Snake animation
+  [Snake animation](https://github.com/Phospudim/Phospudim/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-´
+
